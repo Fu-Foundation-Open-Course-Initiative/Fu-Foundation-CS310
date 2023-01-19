@@ -1,9 +1,5 @@
 # Lecture 1 - Distributed System
 
-# In a graphical view
-
-![Untitled](Lecture%201%20-%20Distributed%20System%206e7fc216b6794e93b1ee4eb51dfa75e9/Untitled.png)
-
 # Fallacies of Distributed Systems
 
 There are several fallacies of distributed systems that are commonly encountered when designing and implementing distributed systems. These include:
